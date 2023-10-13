@@ -11,7 +11,6 @@ This project is a JavaFX implementation of the <b>Battleship game</b> that uses 
   <li>The game boards are updated after each turn.</li>
   <li> The game continues until one player destroys all of the opponent's ships.</li>
 </ul>
-<br/>
 <hr/>
 <br/>
 To run the project in the Eclipse IDE make sure to:
